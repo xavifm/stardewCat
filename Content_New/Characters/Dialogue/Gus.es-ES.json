@@ -36,7 +36,7 @@
         "IslandSouth_14_21": "Ei, necessites una beguda? Tinc alguns refrescos especials que inclouen ingredients locals de l'illa.$h",
         "willyCrabs": "Crec que són els millors pastissos de cranc que he cuinat en la meva vida...",
         "Mon": "Sí, sé molt dels habitants de per aquí.#$e#És una dels avantatges de ser cambrer.$h#$e#A vegades sento de més...",
-        "pamHouseUpgrade": "Hola. M'han explicat el que has fet per la Pam. Ha estat molt amable per part teva!$h#$e#Per desgràcia, no crec que això l'animi a deixar el beure...,
+        "pamHouseUpgrade": "Hola. M'han explicat el que has fet per la Pam. Ha estat molt amable per part teva!$h#$e#Per desgràcia, no crec que això l'animi a deixar el beure...",
         "pamHouseUpgradeAnonymous": "M'he trobat amb la Pam abans... no vegis quin somriure tenia d'orella a orella! Diu que algú li va comprar una casa nova!#$e#No sé qui seria, però es mereix el millor del món!$h",
         "Saloon": "Bona tarda. Què puc oferir-te?",
         "Saloon4": "Bona tarda. Com si fossis a la teva casa.",
@@ -58,4 +58,5 @@
     }
 
 }
+
 
