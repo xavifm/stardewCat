@@ -33,7 +33,7 @@
         "Indoor_Day_3": "Ei. Com has dormit aquesta nit? He sentit que murmuraves.#$e#Semblaves espantat, però he d'admetre... que també estaves molt bufó.$l^Semblaves espantada però he d'admetre... que també estaves molt bufona.$l",
         "Indoor_Day_4": "Viure aquí amb tu m'està ensenyant a sortir una mica de la meva zona de confort. Crec que això és bo per a mi.$7",
         "Indoor_Night_0": "Ei. He passejat una mica per la casa avui. Res d'interessant...#$e#...#$e#Les vistes des de casa nostra són perfectes. Pots veure el sol ponent-se per sobre de Vila Pelicà just al porxo.",
-        "Indoor_Night_1": "Potser he begut massa cafè... no tinc gens de son.#$e#Encara intento adaptar-me a l'horari de la granja. Abans sovint em quedava despert fins a les cinc de la matinada i dormia fins a les dues del migdia.$h",
+        "Indoor_Night_1": "Potser he begut massa cafè... No tinc gens de son.#$e#Encara intento adaptar-me a l'horari de la granja. Abans sovint em quedava despert fins a les cinc de la matinada i dormia fins a les dues del migdia.$h",
         "Indoor_Night_2": "És una passada tenir la nostra pròpia casa. Puc fer el que vulgui sense tenir ningú molestant-me tota l'estona.#$e#Segur que la Maru està contenta, ara que ja no hi soc.",
         "Indoor_Night_3": "Abans he vist un ratpenat a la finestra. És una mica difícil de veure, però si t'hi fixes, de tant en tant els pots veure voltant per aquí. Són allà fora.",
         "Indoor_Night_4": "De vegades em sentía poc apreciat a casa... però aquí em sento estimat de debò. Gràcies per això, @.$l",
@@ -65,7 +65,7 @@
         "Neutral_5": "Anem bé de diners? No vull haver de vendre el meu ordinador...",
         "Neutral_6": "Si has de veure els teus amics a la vila, ves-hi. Tanmateix, a mi m'agrada estar tot sol.",
         "Neutral_8": "Fer dissabte no és divertit, però si em poso música de fons es fa ràpid.",
-        "Bad_5": "Mira, només vull estar tot sol. Per què no surts a fer el que vulguis una estona?",
+        "Bad_5": "Mira, voldria estar tot sol. Per què no surts a fer el que vulguis una estona?",
         "Bad_6": "Què vols? Sembles el meu pare. Ves-te'n.$a",
         "Bad_7": "Aquest lloc comença a semblar-me una tomba.$s",
         "Bad_8": "He començat a fumar un altre cop... Estic molt estressat aquests dies.$s",
@@ -73,7 +73,7 @@
         "funReturn_Sebastian": "Avui he tingut un dia normal, res gaire interessant. Com ha anat el teu?",
         "spring_1": "Oohh... el meu cap. Bon any nou...$h",
         "spring_12": "Estàs emocionat pel festival de demà? Estarà bé veure en Sam un altre cop.^Estàs emocionada pel festival de demà? Estarà bé veure en Sam un altre cop.",
-        "spring_23": "Oh... demà és la dansa floral, oi? De debò hi hem d'anar?#$e#Odio aquell vestit ridícul. Per què ens obliga a fer això, en Lewis?$s",
+        "spring_23": "Oh... Demà és la dansa floral, oi? De debò hi hem d'anar?#$e#Odio aquell vestit ridícul. Per què ens obliga a fer això, en Lewis?$s",
         "summer_1": "L'estiu és aquí... he de començar a posar-me protecció solar si vull mantenir-me pàl·lid...",
         "summer_10": "Has pensat en el que posaràs a la sopa del luau?#$e#Jo no tinc ni idea de què és bo... Tu ets el xef!$7",
         "summer_27": "Comença a refrescar una mica. Quin gustàs.#$e#Anem al festival demà? És una de les poques tradicions que m'agraden.$7",
@@ -82,6 +82,6 @@
         "fall_26": "Estic emocionat per la vespra dels esperits. Quina mena d'horrors ens hi trobarem?$h",
         "winter_1": "Quins són els teus plans per a aquest hivern? Sé que és un temps una mica més relaxat per a tu.",
         "winter_7": "Participaràs en el torneig de pesca demà?",
-        "winter_28": "Ha estat un bon any, @. Hauriem de celebrar-ho. [346]$h#$e#Segur que l'any que ve serà millor.$7"
+        "winter_28": "Ha estat un bon any, @. Hauríem de celebrar-ho. [346]$h#$e#Segur que l'any que ve serà millor.$7"
     }
 }
